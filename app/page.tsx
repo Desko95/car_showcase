@@ -1,4 +1,4 @@
-"use client";
+//"use client"; 
 
 import { CarCard, CustomFilter, Hero, SearchBar, ShowMore } from '@/components'
 import { fuels, yearsOfProduction } from '@/constants';
